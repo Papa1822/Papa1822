@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![TryHackMe](./assets/tryhackme-badge.png)](https://tryhackme.com)
+
 
 <!--
 **Papa1822/Papa1822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
