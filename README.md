@@ -2,6 +2,19 @@
 [![TryHackMe](./assets/tryhackme-badge.png)](https://tryhackme.com)
 
 
+## 🛡️ Cybersecurity Progress
+I am a Cybersecurity student focused on **Security Operations (SOC)** and **Cloud Architecture**.
+
+### 🎓 Completed Learning Paths
+- ✅ **Pre-Security** ([TryHackMe](https://tryhackme.com)) - *Foundational Networking, Linux, and Web Security.*
+- 🏗️ **Cyber Security 101** ([TryHackMe](https://tryhackme.com)) - *In Progress.*
+
+### 🛠️ Key Skills Mastered
+- **Networking:** OSI Model, TCP/IP, DNS, and HTTP/S.
+- **Linux:** Command-line proficiency, File permissions, and System Navigation.
+- **Tools:** Nmap, Wireshark, Metasploit Framework.
+
+
 <!--
 **Papa1822/Papa1822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
